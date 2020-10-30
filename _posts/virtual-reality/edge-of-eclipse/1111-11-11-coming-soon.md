@@ -11,10 +11,11 @@ image:
     thumb:  thumbnail_waiting.jpg
     homepage: waiting_raw.jpg
 categories:
-    - virtual-reality/vr-developer-diaries
+    - virtual-reality/edge-of-eclipse
 tags:
-    - vr-developer-diaries
+    - edge-of-eclipse
 author: mtfallsVR
 show_meta: true
+comments: true
 ---
 <!-- [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q81LOP9) -->
