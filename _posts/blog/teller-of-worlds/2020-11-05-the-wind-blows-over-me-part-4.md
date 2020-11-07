@@ -24,7 +24,7 @@ comments: true
 
 [Click here for Part 1]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-1) <br/>
 [Click here for Part 2]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-2) <br/>
-[Click here for Part 2]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-3) <br/>
+[Click here for Part 3]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-3) <br/>
 
 # Day 84 (NaNoWriMo Part 4)     
 ## This Virtual Town I Call My Own 
