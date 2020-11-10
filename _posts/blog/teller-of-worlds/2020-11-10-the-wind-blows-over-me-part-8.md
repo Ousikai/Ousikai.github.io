@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part 8"
-teaser: "The colors of yesterday."
+title: "The Wind Blows Over Me Part 7"
+teaser: "Conduits of the Constellations"
 #header:
 #    image_fullwidth: "waiting_raw.jpg"
 #    caption: Waiting for the new VRMMO release of Sword Art Online
@@ -23,10 +23,16 @@ comments: true
 [Click here for the table of contents]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
 
 # Day TBD (NaNoWriMo Part TBD)     
-## Echo of Memory (Remembering Yesterday: Fall)
+## Closer to the Stars
 
-*wHEN WAS the last time you laughed so hard that you cried?
-*the colors of yesterday 
+Connecting old people and youung people through VR
+-pandemic
+-no judging visually (avar conduit of communication)
+-boom vs VR
+-hugging in VR
+-zen garden/lotus garden (japanese research?)
+-newest section of Littlewood town
+
 
 ---
 

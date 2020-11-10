@@ -2,7 +2,7 @@
 layout: page
 subheadline: "NaNoWriMo 2020"
 title: "The Wind Blows Over Me Part 5"
-teaser: "The Chosen"
+teaser: "Chosen of the Sun"
 #header:
 #    image_fullwidth: "waiting_raw.jpg"
 #    caption: Waiting for the new VRMMO release of Sword Art Online

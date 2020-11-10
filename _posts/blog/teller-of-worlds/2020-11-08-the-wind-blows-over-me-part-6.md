@@ -20,7 +20,7 @@ comments: true
 ---
 *Preface: this is my series of RAW and UNEDITED daily posts for NaNoWriMo. It’s going to be extremely imperfect, lauden with grammatical and spelling errors, but brimming with potential. I post it mostly for myself, but invite any daring souls to try and keep up with the winds that blow me to tomorrow :wind_face:.*
 
-[Click here for the table of contents]({{site.baseurl}}/blog/the-wind-blows-over-me-table-of-contents) <br/>
+[Click here for the table of contents]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents/) <br/>
 
 # Day 87 (NaNoWriMo Part 6)     
 ## Chosen of the Moon
@@ -132,6 +132,7 @@ I get home and check my dumbphone for notifcations, as I had aginrly shut them o
 A lame prize compared to the first and second prize recipients, but those were projects chosen by the corporate judges themselves. The projects chosen by the sun to get the first spark of light and keep burning for the sake of the company. Our project was different: it was bootstrapped by my team and led by me, and what we proposed what not forgetting out humanity through the censhopship of contenipous words, but rememberign what it mean to be human in an increasinglhy digital age. A call back to the truths of yesterday we forget in the overcomplicatigons of modern day living. I peer out triumphantly to the sky now draped in black, and a bright moon meets me back to grant me its blessing. I was a champion of the dark, chosen by moon to re-light the truths once prevalent, but now forgotten. A look back at our ancestors, all theirs wisdoms to get to this point, and a call back to humanity, now forgotten in the flurry that is now. "People's choice" was just small proof that there were ppeople out there waiting for contenstios creatvies like myself to finally dive into the fray. The journey would be long, painful, daunting, dangeourous, and all manner of negative descritpions that would ward away any sensible person form even taking the first step. But common sense is not so common anymore, so now I had a reason to go back int othe dark and bright back old truths into the moonlight.
 
 To remember who we once were, and decide who we want to be in the coming days of self-efficacy calamity.
+
 ---
 
 Today’s word count: **3,888 words** <br/>
