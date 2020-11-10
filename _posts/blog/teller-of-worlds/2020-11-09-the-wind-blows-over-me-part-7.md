@@ -2,7 +2,7 @@
 layout: page
 subheadline: "NaNoWriMo 2020"
 title: "The Wind Blows Over Me Part 7"
-teaser: "The colors of yesterday."
+teaser: "When was the last time you laughed so hard that you cried?"
 #header:
 #    image_fullwidth: "waiting_raw.jpg"
 #    caption: Waiting for the new VRMMO release of Sword Art Online
