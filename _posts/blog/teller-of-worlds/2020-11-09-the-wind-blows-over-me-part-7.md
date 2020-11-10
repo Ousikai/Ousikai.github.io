@@ -95,8 +95,8 @@ Why do I write? I write, because I don't want to forget. Myself, my older selves
 
 ---
 
-Today’s word count: **2424 words** <br/>
-Total word count until today: **zzz words** <br/>
+Today’s word count: **2,424 words** <br/>
+Total word count until today: **16,448 words** <br/>
 
 -----
 
