@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part TBD"
+title: "The Wind Blows Over Me Part 10"
 teaser: "TBD"
 #header:
 #    image_fullwidth: "waiting_raw.jpg"
@@ -20,7 +20,7 @@ comments: true
 ---
 *Preface: this is my series of RAW and UNEDITED daily posts for NaNoWriMo. It’s going to be extremely imperfect, lauden with grammatical and spelling errors, but brimming with potential. I post it mostly for myself, but invite any daring souls to try and keep up with the winds that blow me to tomorrow :wind_face:.*
 
-[Click here for the table of contents]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
+[Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
 
 # Day TBD (NaNoWriMo Part TBD)     
 ## TBD

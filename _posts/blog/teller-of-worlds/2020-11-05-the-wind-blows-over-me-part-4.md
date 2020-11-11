@@ -22,9 +22,7 @@ comments: true
 
 *This is also my submission for this week's @wildcat topic on Communities! This will be a different style than my usual tight bullet points writing, I hope you enjoy the ride as much as I did forming it!*
 
-[Click here for Part 1]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-1) <br/>
-[Click here for Part 2]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-2) <br/>
-[Click here for Part 3]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-3) <br/>
+[Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
 
 # Day 84 (NaNoWriMo Part 4)     
 ## This Virtual Town I Call My Own 

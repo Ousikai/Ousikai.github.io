@@ -25,15 +25,22 @@ comments: true
 
 Total word count: **zzz words** <br/>
 
-[Click here for Part 1]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-1) <br/>
-[Click here for Part 2]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-2) <br/>
-[Click here for Part 3]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-3) <br/>
-[Click here for Part 4]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-4) <br/>
-[Click here for Part 5]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-5) <br/>
-[Click here for Part 6]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-6) <br/>
-[Click here for Part 7]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-7) <br/>
-[Click here for Part 8]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-8) <br/>
+[Click here for Part 1: Which Way Does the Wind Blow?]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-1) <br/>
+[Click here for Part 2: Remembering Yesterday (Spring)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-2) <br/>
+[Click here for Part 3: Remembering Yesterday (Winter)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-3) <br/>
+[Click here for Part 4: This Virtual Town I Call My Own]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-4) <br/>
+[Click here for Part 5: Chosen of the Sun]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-5) <br/>
+[Click here for Part 6: Chosen of the Moon]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-6) <br/>
+[Click here for Part 7: Echo of Memory]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-7) <br/>
+[Click here for Part 8: Closer to the Stars]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-8) <br/>
+
+---
+
+[Click here for Part TBD]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-TBD) <br/>
+
 
 -----
 
+
+## Loyal Fans
 **@mariasokolowska @michellebasey @sabweld @philkastelic @nicolaworley @ParisaR @sydneydobersteinlarock @wildcat @dragon @homeroom11**

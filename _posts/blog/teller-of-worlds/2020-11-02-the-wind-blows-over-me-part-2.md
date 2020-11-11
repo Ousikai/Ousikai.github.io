@@ -20,7 +20,7 @@ comments: true
 ---
 *Preface: this is my series of RAW and UNEDITED daily posts for NaNoWriMo. It’s going to be extremely imperfect, lauden with grammatical and spelling errors, but brimming with potential. I post it mostly for myself, but invite any daring souls to try and keep up with the winds that blow me to tomorrow :wind_face:.*
 
-[Click here for Part 1]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-1)
+[Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
 
 # Day 81 (NaNoWriMo Part 2)
 ## Remembering Yesterday: Spring

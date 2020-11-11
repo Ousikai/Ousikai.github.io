@@ -18,6 +18,10 @@ author: Ousikai
 show_meta: true
 comments: true
 ---
+*Preface: this is my series of RAW and UNEDITED daily posts for NaNoWriMo. It’s going to be extremely imperfect, lauden with grammatical and spelling errors, but brimming with potential. I post it mostly for myself, but invite any daring souls to try and keep up with the winds that blow me to tomorrow :wind_face:.*
+
+[Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
+
 # Day 80 (NaNoWriMo Part 1): Which Way Does The Wind Blow?
 
 I dream of the next step. My personal salvation. The answer to my waiting and wandering. In my dream, it's so close. I can almost reach out and grab it. A simple game with a simple name, which a simple premise in a potential not yet tapped yet. A love letter my person of old, mixed with the feelings and intentionms of my person of new. I know what the next step is. 
