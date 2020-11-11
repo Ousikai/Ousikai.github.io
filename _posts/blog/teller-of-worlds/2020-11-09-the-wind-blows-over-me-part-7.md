@@ -100,4 +100,4 @@ Total word count until today: **16,448 words** <br/>
 
 -----
 
-**@mariasokolowska @michellebasey @sabweld @ParisaR @sydneydobersteinlarock @wildcat @dragon @homeroom11**
+**@mariasokolowska @michellebasey @sabweld @philkastelic @nicolaworley @ParisaR @sydneydobersteinlarock @wildcat @dragon @homeroom11**

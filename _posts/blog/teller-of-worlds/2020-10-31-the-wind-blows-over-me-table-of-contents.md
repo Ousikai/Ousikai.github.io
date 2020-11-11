@@ -25,13 +25,15 @@ comments: true
 
 Total word count: **zzz words** <br/>
 
-[Click here for Part 1]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-1) <br/>
-[Click here for Part 2]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-2) <br/>
-[Click here for Part 3]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-3) <br/>
-[Click here for Part 4]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-4) <br/>
-[Click here for Part 5]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-5) <br/>
-[Click here for Part 6]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-6) <br/>
+[Click here for Part 1]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-1) <br/>
+[Click here for Part 2]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-2) <br/>
+[Click here for Part 3]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-3) <br/>
+[Click here for Part 4]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-4) <br/>
+[Click here for Part 5]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-5) <br/>
+[Click here for Part 6]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-6) <br/>
+[Click here for Part 7]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-7) <br/>
+[Click here for Part 8]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-8) <br/>
 
 -----
 
-**@mariasokolowska @michellebasey @sabweld @ParisaR @sydneydobersteinlarock @wildcat @dragon @homeroom11**
+**@mariasokolowska @michellebasey @sabweld @philkastelic @nicolaworley @ParisaR @sydneydobersteinlarock @wildcat @dragon @homeroom11**
