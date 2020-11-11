@@ -20,7 +20,7 @@ comments: true
 ---
 *Preface: this is my series of RAW and UNEDITED daily posts for NaNoWriMo. It’s going to be extremely imperfect, lauden with grammatical and spelling errors, but brimming with potential. I post it mostly for myself, but invite any daring souls to try and keep up with the winds that blow me to tomorrow :wind_face:.*
 
-[Click here for the table of contents]({{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
+[Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
 
 # Day TBD (NaNoWriMo Part TBD)     
 ## TBD
@@ -38,4 +38,4 @@ Total word count until today: **zzz words** <br/>
 
 -----
 
-**@mariasokolowska @michellebasey @sabweld @ParisaR @sydneydobersteinlarock @wildcat @dragon @homeroom11**
+**@mariasokolowska @michellebasey @sabweld @philkastelic @nicolaworley @ParisaR @sydneydobersteinlarock @wildcat @dragon @homeroom11**

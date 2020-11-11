@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part 10"
+title: "The Wind Blows Over Me Part TBD"
 teaser: "TBD"
 #header:
 #    image_fullwidth: "waiting_raw.jpg"
@@ -38,4 +38,4 @@ Total word count until today: **zzz words** <br/>
 
 -----
 
-**@mariasokolowska @michellebasey @sabweld @ParisaR @sydneydobersteinlarock @wildcat @dragon @homeroom11**
+**@mariasokolowska @michellebasey @sabweld @philkastelic @nicolaworley @ParisaR @sydneydobersteinlarock @wildcat @dragon @homeroom11**
