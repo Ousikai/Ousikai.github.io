@@ -2,14 +2,14 @@
 layout: page
 subheadline: "NaNoWriMo 2020"
 title: "The Wind Blows Over Me: Table of Contents"
-teaser: "Which way does the wind blow? To tomorrow!"
-#header:
-#    image_fullwidth: "waiting_raw.jpg"
-#    caption: Waiting for the new VRMMO release of Sword Art Online
-#    caption_url: "https://en.wikipedia.org/wiki/Sword_Art_Online"
-#image:
-#    thumb:  thumbnail_waiting.jpg
-#    homepage: waiting_raw.jpg
+teaser: "Which way does the wind blow?"
+header:
+    image_fullwidth: "blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-HEAD.jpg"
+    caption: A sleeping giant sits outside an otherwise innoculous village at the outskirts of the virtual realm...
+    caption_url: "https://swordartonline.fandom.com/wiki/Gigas_Cedar"
+image:
+    thumb:  blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-THUMB.png
+    homepage: blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-RAW.png
 categories:
     - blog/teller-of-worlds
 tags:   
