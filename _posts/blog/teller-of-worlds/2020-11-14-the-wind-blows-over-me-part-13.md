@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part TBD: Promise and Void (Wings)"
-teaser: "TBD"
+title: "The Wind Blows Over Me Part TBD: Promise and Void (Crash)"
+teaser: "Waiting to be chosen."
 header:
     image_fullwidth: "blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-HEAD.jpg"
     caption: A sleeping giant sits outside an otherwise innoculous village at the outskirts of the virtual realm...
@@ -23,8 +23,22 @@ comments: true
 [Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
 
 # Day TBD (NaNoWriMo Part TBD)     
-## Promise and Void (Icarus)
+## Promise and Void (Crash)
 
+- Quality candidates ( Xbox live -> 4 Pillars) -> (same personality < different personality)
+- Seeking salvation
+- Asking God for salvation, sleepness night
+- Pedestal
+- Drifting Apart
+- Days Of Discovery, Fall Off Pedestal and become human at a price
+- More frantic and disorganized
+- Jouney's End (Oathkeeper and Oblivion)
+- Forever now Unsaid vs The Right Time is Never, So The Right Time Is Now
+- Laugh about this years down the line, "today" seemed so important yesterday
+
+---
+
+*It's 11/11b at 11:11PM, make a wish!*
 
 ---
 
@@ -33,4 +47,4 @@ Total word count until today: **zzz words** <br/>
 
 -----
 
-**@mariasokolowska @michellebasey @sabweld @ParisaR @sydneydobersteinlarock @wildcat @dragon @homeroom11**
+**@mariasokolowska @michellebasey @sabweld @philkastelic @nicolaworley @ParisaR @sydneydobersteinlarock @wildcat @dragon @homeroom11**
