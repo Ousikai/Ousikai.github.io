@@ -33,7 +33,8 @@ Total word count: **zzz words** <br/>
 [Click here for Part 6: Chosen of the Moon]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-6) <br/>
 [Click here for Part 7: Echo of Memory]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-7) <br/>
 [Click here for Part 8: Closer to the Stars]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-8) <br/>
-[Click here for Part 9: TBD]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-9) <br/>
+[Click here for Part 9: Teller of Worlds]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-9) <br/>
+[Click here for Part 10: Promise and Void (Float)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-10) <br/>
 
 
 ---
