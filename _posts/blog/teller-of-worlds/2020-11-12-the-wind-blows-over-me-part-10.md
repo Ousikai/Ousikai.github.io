@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part TBD: Promise and Void (Float)"
-teaser: "I can float too, but "
+title: "The Wind Blows Over Me Part 10: Promise and Void (Float)"
+teaser: "I can float too, and I don't ask for much from you. But maybe that's too much, too soon."
 header:
     image_fullwidth: "blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-HEAD.jpg"
     caption: A sleeping giant sits outside an otherwise innoculous village at the outskirts of the virtual realm...
