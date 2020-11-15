@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part TBD: Promise and Void (Crash)"
-teaser: "Waiting to be chosen."
+title: "The Wind Blows Over Me Part 13: Promise and Void (lost//found)"
+teaser: "Somewhere in between."
 header:
     image_fullwidth: "blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-HEAD.jpg"
     caption: A sleeping giant sits outside an otherwise innoculous village at the outskirts of the virtual realm...
@@ -22,8 +22,8 @@ comments: true
 
 [Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
 
-# Day TBD (NaNoWriMo Part TBD)     
-## Promise and Void (Crash)
+# Day 94 (NaNoWriMo Part 13)     
+## Promise and Void (lost//found)
 
 - Quality candidates ( Xbox live -> 4 Pillars) -> (same personality < different personality)
 - Seeking salvation
