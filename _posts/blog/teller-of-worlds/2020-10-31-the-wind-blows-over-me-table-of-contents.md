@@ -36,8 +36,8 @@ Total word count: **zzz words** <br/>
 [Click here for Part 9: Teller of Worlds]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-9) <br/>
 [Click here for Part 10: Promise and Void (Float)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-10) <br/>
 [Click here for Part 11: Promise and Void (Wings)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-11) <br/>
-[Click here for Part 10: Promise and Void (start//end)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-12) <br/>
-[Click here for Part 10: Promise and Void (lost//found)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-13) <br/>
+[Click here for Part 12: Promise and Void (start//end)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-12) <br/>
+[Click here for Part 13: Promise and Void (lost//found)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-13) <br/>
 
 ---
 
