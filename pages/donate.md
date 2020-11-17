@@ -16,11 +16,8 @@ Thank you SOOO much in your interest and investment into our works here at Atemo
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q81LOP9)
 
 
-## Recurring Donations
-Coming soon!
-
 ## Cryptocurrency
 Coming soon!
 
-[1]: {{site.baseurl}}/hall-of-heroes
+[1]: {{site.url}}{{site.baseurl}}/hall-of-heroes
 

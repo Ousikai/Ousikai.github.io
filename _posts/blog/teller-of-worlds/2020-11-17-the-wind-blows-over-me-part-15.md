@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part TBD"
-teaser: "TBD"
+title: "The Wind Blows Over Me Part 15: The Fire"
+teaser: "Time is the fire in which we all burn."
 header:
     image_fullwidth: "blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-HEAD.jpg"
     caption: A sleeping giant sits outside an otherwise innoculous village at the outskirts of the virtual realm...
@@ -22,14 +22,12 @@ comments: true
 
 [Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
 
-# Day TBD (NaNoWriMo Part TBD)     
-## TBD
+# Day 96 (NaNoWriMo Part 15)     
+## The Fire
 
-Ethical considerations:
-* What are the ethical, legal and regulatory issues of most consequence to our future? 
-* How can we make sure we stay in control of our and our kids future in an ethical, fair, sustainable way? 
-* Is humankind still evolving? If so, is there a moral or ethical component to our growth as a species? 
-* Building resilient, supportive and sustainable communities?
+> *The most powerful weapon on earth is the human soul on fire.*
+
+Unofficial end of nano.
 
 ---
 

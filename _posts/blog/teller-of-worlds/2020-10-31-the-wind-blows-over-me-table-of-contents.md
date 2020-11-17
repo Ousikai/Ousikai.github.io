@@ -38,14 +38,5 @@ Total word count: **zzz words** <br/>
 [Click here for Part 11: Promise and Void (Wings)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-11) <br/>
 [Click here for Part 12: Promise and Void (start//end)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-12) <br/>
 [Click here for Part 13: Promise and Void (lost//found)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-13) <br/>
-
----
-
-[Click here for Part TBD]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-TBD) <br/>
-
-
------
-
-
-## Loyal Fans
-**@mariasokolowska @michellebasey @sabweld @philkastelic @nicolaworley @ParisaR @sydneydobersteinlarock @wildcat @dragon @homeroom11**
+[Click here for Part 14: Whatever's Out There]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-14) <br/>
+[Click here for Part 14: The Fire]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-15) <br/>
