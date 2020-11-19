@@ -10,11 +10,19 @@ header:
 ---
 Thank you SOOO much in your interest and investment into our works here at Atemosta! We appreciate anything you can give, ***even a single bell help!*** For those who can afford to donate above and beyond, we will memoralize your donation in our personal [hall of heroes][1].
 
-## Donation Rewards and Levels
-Arc in the Storm
+## Donation Rewards and Levels (Optional)
+If you would like to submit your donation and be recognized and receive no additional rewards, skip this section. 
+
+If you would like to submit your donation and receive one-time rewards for helping Atemosta plant its roots, read on! 
+Donations and their rewards will ONLY be available before the official release of Tempest Crossing, so if you want to be part of a new VR history, donate whatever you can, whenever you can! Once Tempest Crossing is released, no more backer rewards will be created and no more Tempest Tokens will be minted. 
+
+### Tempest Tokens?
+Tempest Tokens are a special currency which will be minted ONLY at the onset of Tempest Crossing, and will be used to redeem limited-time rewards. Tempest Tokens are burned after use, so these will get rarer over time and could be held for profit for newer players in the future...
+
 
 ### Gust Seed
 * $1
+* Receive special **Discord Role** and **In-Game Title**, ***Arc in the Storm***, which gives pre-release previews and alpha access to the game!
 * Receive special **Discord Role** and **In-Game Title** based on donation level
 * 1 Tempest Token
  
@@ -54,7 +62,6 @@ Arc in the Storm
 ## Fiat Donation
 ### Ko-fi
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q81LOP9)
-
 
 ## Cryptocurrency Donation
 **BTC Address**: TBD
