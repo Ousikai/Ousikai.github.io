@@ -39,4 +39,6 @@ Total word count: **zzz words** <br/>
 [Click here for Part 12: Promise and Void (start//end)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-12) <br/>
 [Click here for Part 13: Promise and Void (lost//found)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-13) <br/>
 [Click here for Part 14: Whatever's Out There]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-14) <br/>
-[Click here for Part 15: The Fire]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-15) <br/>
+[Click here for Part 15: Burnout]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-15) <br/>
+[Click here for Part 16: The Will of Fire]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-16) <br/>
+

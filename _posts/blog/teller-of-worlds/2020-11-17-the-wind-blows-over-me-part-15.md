@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part 15: The Fire"
+title: "The Wind Blows Over Me Part 15: Burnout"
 teaser: "Time is the fire in which we all burn."
 header:
     image_fullwidth: "blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-HEAD.jpg"
@@ -23,7 +23,7 @@ comments: true
 [Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
 
 # Day 96 (NaNoWriMo Part 15)     
-## The Fire
+## Burnout
 
 > *The most powerful weapon on earth is the human soul on fire.*
 
