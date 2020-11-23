@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part 15: The Will of Fire"
+title: "The Wind Blows Over Me Part 16: The Will of Fire"
 teaser: "A walk through the dinosaur park."
 header:
     image_fullwidth: "blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-HEAD.jpg"
@@ -83,7 +83,7 @@ Something to protect, huh?...
 
 ---
 
-“> *If you wanna make people dream, you’ve gotta start by believing in that dream yourself!”*
+> “*If you wanna make people dream, you’ve gotta start by believing in that dream yourself!”*
 
 There's two types of people I've come to typecast now: the creators and the consumers. Creators make things as their namesake dictates: they take what's inside to produce something for others outside. Consumers are the opposite: they take things others have produced outside and internialize them. To really be a well-rounded person, you need elements of both. Creativity doesn't occur in a box, it's melded and influenced by the people we come across. But creation is hard: to create for yourself is easy, to create for others to consume and even be influenced by it? Near impossible... but only if you belief it so. With that, I have a new phrase I'l like to share with you all: it's probably been stated by others, but I'll claim it as a personal original:
 
