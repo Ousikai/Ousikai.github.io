@@ -23,7 +23,7 @@ comments: true
 [Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
 
 # Day 98 (NaNoWriMo Part 17)     
-## The Meaning of Strength
+## Road Taken (Calm/Roar)
 
 > *For the first time in my life, I feel desire for something. And it isn't an innocent desire... I want to win right now. I want to win, no matter what*.
 

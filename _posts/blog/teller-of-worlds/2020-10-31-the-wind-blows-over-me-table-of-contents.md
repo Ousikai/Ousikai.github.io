@@ -41,6 +41,8 @@ Total word count: **zzz words** <br/>
 [Click here for Part 14: Whatever's Out There]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-14) <br/>
 [Click here for Part 15: Burnout]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-15) <br/>
 [Click here for Part 16: The Will of Fire]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-16) <br/>
-[Click here for Part 17: Road Taken (Calm/Roar) ]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-17) <br/>
+[Click here for Part 17: Road Taken (Calm/Roar)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-17) <br/>
+[Click here for Part 18: World-Class Magic]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-18) <br/>
+[Click here for Part 19: Thorn in You]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-18) <br/>
 
 
