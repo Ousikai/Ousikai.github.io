@@ -43,6 +43,8 @@ Total word count: **zzz words** <br/>
 [Click here for Part 16: The Will of Fire]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-16) <br/>
 [Click here for Part 17: Road Taken (Calm/Roar)]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-17) <br/>
 [Click here for Part 18: World-Class Magic]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-18) <br/>
-[Click here for Part 19: Thorn in Me]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-18) <br/>
+[Click here for Part 19: Thorn in Me]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-19) <br/>
+[Click here for Part 20: Oh, Kairos]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-20) <br/>
+[Click here for Part 21:The Gate and the Tower]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-21) <br/>
 
 
