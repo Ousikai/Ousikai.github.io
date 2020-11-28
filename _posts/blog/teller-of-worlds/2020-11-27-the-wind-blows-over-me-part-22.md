@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part 22: Intagible Heirlooms"
+title: "The Wind Blows Over Me Part 22: Intangible Heirlooms"
 teaser: "Passing down something meaningful."
 header:
     image_fullwidth: "blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-HEAD.jpg"
@@ -23,7 +23,7 @@ comments: true
 [Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
 
 # Day 100 (NaNoWriMo Part 22)     
-## Intagible Heirlooms
+## Intangible Heirlooms
 
 > *"Today's youth will never be as great as our forefathers."*
 
