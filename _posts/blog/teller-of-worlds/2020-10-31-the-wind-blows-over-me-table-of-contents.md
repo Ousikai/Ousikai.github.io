@@ -49,4 +49,5 @@ Total word count: **zzz words** <br/>
 [Click here for Part 22: Intangible Heirlooms]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-23) <br/>
 [Click here for Part 23: Littlewood Town]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-23) <br/>
 [Click here for Part 24: Littlewood Academia]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-24) <br/>
+[Click here for Part 25: The World Ends With You]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-25) <br/>
 

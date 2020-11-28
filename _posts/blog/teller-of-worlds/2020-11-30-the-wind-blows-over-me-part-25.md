@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part 23: Littlewood Town"
-teaser: "A week with the seedlings."
+title: "The Wind Blows Over Me Part 25: The World Ends With You"
+teaser: "Finding your own truths."
 header:
     image_fullwidth: "blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-HEAD.jpg"
     caption: A sleeping giant sits outside an otherwise innoculous village at the outskirts of the virtual realm...
@@ -22,8 +22,8 @@ comments: true
 
 [Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
 
-# Day 101 (NaNoWriMo Part 23)     
-## Littlewood Town
+# Day 101 (NaNoWriMo Part 25)     
+## The World Ends With You
 
 ---
 
