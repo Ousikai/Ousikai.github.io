@@ -45,6 +45,8 @@ Total word count: **zzz words** <br/>
 [Click here for Part 18: World-Class Magic]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-18) <br/>
 [Click here for Part 19: Thorn in Me]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-19) <br/>
 [Click here for Part 20: Oh, Kairos]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-20) <br/>
-[Click here for Part 21:The Gate and the Tower]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-21) <br/>
-
+[Click here for Part 21: The Gate and the Tower]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-21) <br/>
+[Click here for Part 22: Intangible Heirlooms]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-23) <br/>
+[Click here for Part 23: Littlewood Town]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-23) <br/>
+[Click here for Part 24: Littlewood Academia]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-part-24) <br/>
 
