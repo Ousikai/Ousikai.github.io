@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part 22: The Gate and the Tower"
+title: "The Wind Blows Over Me Part 21: The Gate and the Tower"
 teaser: "Go up."
 header:
     image_fullwidth: "blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-HEAD.jpg"

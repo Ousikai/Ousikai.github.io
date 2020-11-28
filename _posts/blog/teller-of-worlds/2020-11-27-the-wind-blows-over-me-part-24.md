@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "NaNoWriMo 2020"
-title: "The Wind Blows Over Me Part 22: Littlewood Academia"
+title: "The Wind Blows Over Me Part 24: Littlewood Academia"
 teaser: "A new semester begins with for the seedlings."
 header:
     image_fullwidth: "blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-HEAD.jpg"
