@@ -12,7 +12,7 @@ image:
     homepage: blog/teller-of-worlds/2020-Dec/RAW.jpg
 categories:
     - tempest-crossing/teller-of-worlds
-tags:   
+tags:
     - teller-of-worlds
 author: Ousikai
 show_meta: true

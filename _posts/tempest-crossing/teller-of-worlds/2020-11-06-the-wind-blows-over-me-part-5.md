@@ -11,16 +11,16 @@ image:
     thumb:  blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-THUMB.png
     homepage: blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-RAW.png
 categories:
-    - blog/teller-of-worlds
-tags:   
-    - teller-of-worlds
+    - blog/perfecting-your-protagonist
+tags:
+    - perfecting-your-protagonist
 author: Ousikai
 show_meta: true
 comments: true
 ---
 *Preface: this is my series of RAW and UNEDITED daily posts for NaNoWriMo. It’s going to be extremely imperfect, lauden with grammatical and spelling errors, but brimming with potential. I post it mostly for myself, but invite any daring souls to try and keep up with the winds that blow me to tomorrow :wind_face:.*
 
-[Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
+[Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/perfecting-your-protagonist/the-wind-blows-over-me-table-of-contents) <br/>
 
 # Day 85 (NaNoWriMo Part 5)     
 ## Chosen of the Sun

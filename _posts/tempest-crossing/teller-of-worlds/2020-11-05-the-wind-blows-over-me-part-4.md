@@ -11,9 +11,9 @@ image:
     thumb:  blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-THUMB.png
     homepage: blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-RAW.png
 categories:
-    - blog/teller-of-worlds
-tags:   
-    - teller-of-worlds
+    - blog/twilight-perfecting-your-protagonist
+tags:
+    - twilight-perfecting-your-protagonist
 author: Ousikai
 show_meta: true
 comments: true
@@ -22,7 +22,7 @@ comments: true
 
 *This is also my submission for this week's @wildcat topic on Communities! This will be a different style than my usual tight bullet points writing, I hope you enjoy the ride as much as I did forming it!*
 
-[Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/teller-of-worlds/the-wind-blows-over-me-table-of-contents) <br/>
+[Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/twilight-perfecting-your-protagonist/the-wind-blows-over-me-table-of-contents) <br/>
 
 # Day 84 (NaNoWriMo Part 4)     
 ## This Virtual Town I Call My Own 

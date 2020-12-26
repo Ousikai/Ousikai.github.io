@@ -9,8 +9,8 @@ title: "A Tempest of Stars"
 header:
   image_fullwidth: header_atos.jpg
 widget1:
-  title: "Virtual Reality"
-  url: 'https://atemosta.com/virtual-reality'
+  title: "Tempest Crossing"
+  url: 'https://atemosta.com/tempest-crossing'
   image: widget-vr-302x182.jpg
   text: 'Discover the selves dwelling just beneath the surface.'
 widget2:

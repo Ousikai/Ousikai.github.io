@@ -11,10 +11,9 @@ teaser: "Leaves rustled."
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/teller-of-worlds
+    - tempest-crossing/teller-of-worlds
 tags:
     - teller-of-worlds
-author: Ousikai
 show_meta: true
 comments: true
 ---

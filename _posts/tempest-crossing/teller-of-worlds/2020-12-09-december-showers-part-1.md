@@ -11,8 +11,8 @@ image:
     thumb:  blog/teller-of-worlds/2020-Dec/THUMB.jpg
     homepage: blog/teller-of-worlds/2020-Dec/RAW.jpg
 categories:
-    - blog/teller-of-worlds
-tags:   
+    - tempest-crossing/teller-of-worlds
+tags:
     - teller-of-worlds
 author: Ousikai
 show_meta: true

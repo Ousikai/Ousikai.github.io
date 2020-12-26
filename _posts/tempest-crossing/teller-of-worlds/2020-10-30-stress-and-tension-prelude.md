@@ -11,9 +11,9 @@ teaser: "Dualism and the choice to have an easy life."
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/teller-of-worlds
+    - blog/twilight-theater
 tags:
-    - teller-of-worlds
+    - twilight-theater
 author: Ousikai
 show_meta: true
 comments: true
