@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "A New Saga Unfolds in El Valedor"
+subheadline: "Creative's Workshop 2020"
 title: "Growing Up and Growing Out"
 teaser: "We all grow up eventually."
 #header:
@@ -11,14 +11,14 @@ teaser: "We all grow up eventually."
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/teller-of-worlds
+    - blog/twilight-theater
 tags:
-    - teller-of-worlds
+    - twilight-theater
 author: Ousikai
 show_meta: true
 comments: true
 ---
-## Day 7: Growing Up and Growing Out
+## Pro2 Day 7: Growing Up and Growing Out
 
 For years, I used to think that being born somewhere and growing up with nearby neighbors was some sort of astral connection. There was reason we are all here at the same time, so we should just let fate take the reins, yeah? In that belief, I unintentionally shrunk my world to only witness what was occurring immediately around me.  The smaller your world gets, the more you feel as though you need to "fit in" or else face the worst fate of all for the social beings that are human beings: ostracization and isolation. 
 

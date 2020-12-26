@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "A New Saga Unfolds in El Valedor"
+subheadline: "Creative's Workshop 2020"
 title: "A Brief Overview of Beginnings"
 teaser: "Let me tell you a story... about the birth of a small nation soon to be named El Salvador..."
 #header:
@@ -11,14 +11,14 @@ teaser: "Let me tell you a story... about the birth of a small nation soon to be
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/teller-of-worlds
+    - tempest-crossing/teller-of-worlds
 tags:
     - teller-of-worlds
 author: Ousikai
 show_meta: true
 comments: true
 ---
-## Day 1: The Brief Overview of Beginnings
+## Pro2 Day 1: The Brief Overview of Beginnings
 First we begin with our indigenous tribes, classical Mesoamerica
 
 Later on the world begins to bridge itself together with the nation of Spain Empire conquering the territory.

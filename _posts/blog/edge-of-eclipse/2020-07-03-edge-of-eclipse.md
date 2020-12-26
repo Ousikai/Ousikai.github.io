@@ -1,5 +1,4 @@
 ---
-permalink: /virtual-reality/edge-of-eclipse/
 layout: page
 subheadline: "Blog"
 title: "Edge of Eclipse"
@@ -12,10 +11,9 @@ image:
     thumb:  blog/vr-developer-diaries/thumb-intro.jpg
     homepage: blog/vr-developer-diaries/kayaba-akihiko-BIG.jpg
 categories:
-    - virtual-reality
+    - blog
 tags:
-    - Virtual Reality
-    - Oculus Quest
+    - virtual-reality
 author: mtfallsVR
 show_meta: true
 ---

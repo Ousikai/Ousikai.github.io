@@ -30,9 +30,9 @@ Email **mtfallsVR@atemosta.com** to set up a crytocurrency donation. We accept t
 
 
 ## Follow-up
-If you have any additonal questions regarding donations, please forward the questions to **DISQUS** below or to **mtfallsVR@atemosta.com**.
+If you have any additonal questions regarding donations, please forward the questions to **DISQUS** below or to **mtfallsVR@protonmail.com**.
 
 [1]: {{site.url}}{{site.baseurl}}/hall-of-heroes
-[2]: {{site.url}}{{site.baseurl}}/tempest-tokens
+[2]: {{site.url}}{{site.baseurl}}/tempest-crossing/tempest-tokens
 
 

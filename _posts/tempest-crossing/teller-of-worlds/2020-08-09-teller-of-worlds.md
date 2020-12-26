@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: "Blog"
+subheadline: "Tempest Crossing"
 title: "Teller of Worlds"
-teaser: "A blog following Ousikai's daily musings and meanderings."
+teaser: "Follow the lore of the land in Tempest Crossing."
 header:
     image_fullwidth: "blog/teller-of-worlds/floor-1-original.png"
     caption: In this world, a single blade can take you anywhere you want to go.
@@ -11,10 +11,10 @@ image:
     thumb:  blog/teller-of-worlds/floor-1-thumb.jpg
     homepage: blog/teller-of-worlds/floor-1-thumb.jpg
 categories:
-    - blog
+    - tempest-crossing
 tags:
-    - reflection
     - story-telling
+    - lore
 author: Ousikai
 show_meta: true
 comments: true

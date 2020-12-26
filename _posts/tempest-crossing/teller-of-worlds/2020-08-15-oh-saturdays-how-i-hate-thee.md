@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "A New Saga Unfolds in El Valedor"
+subheadline: "Creative's Workshop 2020"
 title: "Oh Saturdays, How I Hate Thee"
 teaser: "Saturdays suck."
 #header:
@@ -11,15 +11,15 @@ teaser: "Saturdays suck."
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/teller-of-worlds
+    - blog/twilight-theater
 tags:
-    - teller-of-worlds
+    - twilight-theater
 author: Ousikai
 show_meta: true
 comments: true
 ---
 *Taking a small break from building out the world of El Valedor to address a topic near and dear to my heart*
-## Day 5: Oh Saturdays, How I Hate Thee
+## Pro2 Day 5: Oh Saturdays, How I Hate Thee
 For a brief moment, we are released
 
 From the chains of the weekday, all its pressures deceased 

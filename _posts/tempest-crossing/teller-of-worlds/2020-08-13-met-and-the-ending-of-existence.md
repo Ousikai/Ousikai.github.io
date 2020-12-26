@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "A New Saga Unfolds in El Valedor"
+subheadline: "Creative's Workshop 2020"
 title: "Met and the Ending of Existence"
 teaser: "What's it all for if you die without meaning?"
 #header:
@@ -11,7 +11,7 @@ teaser: "What's it all for if you die without meaning?"
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/teller-of-worlds
+    - tempest-crossing/teller-of-worlds
 tags:
     - teller-of-worlds
 author: Ousikai
@@ -20,7 +20,7 @@ comments: true
 ---
 *I've been thinking about how to want to evolve my dailies, and in the interest of not writing an overwhelming amount to readers (similar to how Seth conducts his blog!), I have decided to write a small passage about the wanderer Met (https://pro2.akimbo.com/t/oscar-k-sandoval-rivera-dailies-el-valedor/27179/11?u=mtfallsvr)  as they travel across the unknown land of El Valedor. I will still try my best to conduct a little more research to base the world off of, but I'll separate those details into my personal blog for those interested :)* 
 
-## Day 3: Met and The Empty Ending of Existence
+## Pro2 Day 3: Met and The Empty Ending of Existence
 No matter where I turn, it seems as though these people cannot escape the pure hard value of cash. They spend their whole lives clawing for the chance to stay alive for even one more day, but if every day is a brutal stuggle to survive... what is even the point of going on. 
 If money is the tool to expand your horizons, all those people I met in the first village will never know what lies beyond their borders. Yet the more of this money I see pumped into the places that are "better off", the more perverted their uses seem to become. There are even people who are willing to risk their lives, some 6000+ rotations around this planet for the chance to make a little more, just to have their life taken away in just a brief instant. Food, water, shelter, these are all things can be replaced and replenished... a life cannot. 
 

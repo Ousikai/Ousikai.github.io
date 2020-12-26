@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "A New Saga Unfolds in El Valedor"
+subheadline: "Creative's Workshop 2020"
 title: "Gone Before You Know It"
 teaser: "All roads eventually end."
 #header:
@@ -11,9 +11,9 @@ teaser: "All roads eventually end."
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/teller-of-worlds
+    - blog/twilight-theater
 tags:
-    - teller-of-worlds
+    - twilight-theater
 author: Ousikai
 show_meta: true
 comments: true

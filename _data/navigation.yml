@@ -6,12 +6,14 @@
   url: "/about/"
   side: left
 
-- title: "Virtual Reality"
-  url: "/virtual-reality/"
+- title: "Tempest Crossing"
+  url: "/tempest-crossing/"
   side: left
   dropdown:
-  - title: "Edge of Eclipse"
-    url: "/virtual-reality/edge-of-eclipse/"
+  - title: "Teller of Worlds"
+    url: "/tempest-crossing/teller-of-worlds/"
+  - title: "Tempest Tokens"
+    url: "/tempest-crossing/tempest-tokens/"
   # - title: "VR Developer Diaries"
   #  url: "/virtual-reality/vr-developer-diaries/"
   # - title: "Page/Post"
@@ -35,6 +37,8 @@
   url: "/projects/"
   side: left
   dropdown:
+  - title: "FEH Gauntlet Bot"
+    url: "/projects/feh-gauntlet-bot/"
   - title: "Fell Star Archives"
     url: "/projects/fell-star-archives/"
   - title: "Littlewood Academia"
@@ -56,10 +60,12 @@
   url: "/blog/"
   side: left
   dropdown:
+  - title: "Edge of Eclipse"
+    url: "/blog/edge-of-eclipse/"
   - title: "Perfecting Your Protagonist"
-    url: "/blog/perfecting-your-protagonist"
-  - title: "Teller of Worlds"
-    url: "/blog/teller-of-worlds"
+    url: "/blog/perfecting-your-protagonist/"
+  - title: "Twilight Theater"
+    url: "/blog/twilight-theater/"
 
 - title: "Search"
   url: "/search/"
@@ -72,3 +78,8 @@
 - title: "Donate"
   url: "/donate/"
   side: right
+  dropdown:
+    - title: "Hall of Heroes"
+      url: "/hall-of-heroes/"
+    - title: "Tempest Tokens"
+      url: "/tempest-crossing/tempest-tokens/"

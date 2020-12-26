@@ -11,9 +11,10 @@ image:
     thumb:  thumbnail_waiting.jpg
     homepage: waiting_raw.jpg
 categories:
-    - virtual-reality/edge-of-eclipse
+    - blog/edge-of-eclipse
 tags:
     - edge-of-eclipse
+    - virtual-reality
 author: mtfallsVR
 show_meta: true
 comments: true

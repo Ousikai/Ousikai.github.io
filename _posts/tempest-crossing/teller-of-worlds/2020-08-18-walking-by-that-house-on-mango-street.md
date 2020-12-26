@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "A New Saga Unfolds in El Valedor"
+subheadline: "Creative's Workshop 2020"
 title: "Walking by that House on Mango Street"
 teaser: "Let's take a moment to remember and appreciate our hermanas."
 #header:
@@ -11,14 +11,14 @@ teaser: "Let's take a moment to remember and appreciate our hermanas."
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/teller-of-worlds
+    - blog/twilight-theater
 tags:
-    - teller-of-worlds
+    - twilight-theater
 author: Ousikai
 show_meta: true
 comments: true
 ---
-## Day 8: Walking by that House on Mango Street
+## Pro2 Day 8: Walking by that House on Mango Street
 In searching for a main character, I have more or less settled on a female Latina-like character. Why? My response for that question would be: why not? I think it's cool to have representation for less prominent communities, and having a women and a minority is a nice double-intersection. My only problem becomes this: I am a male, and I'm afraid that writing a good female character without investing time into research will only lead to a less-than-satisfactory result. 
 
 In my quest for where to begin, I ask my sister, who just so happens to be a female Latina! Her replies were seemingly obvious but completely flew past my head until she uttered them herself: "Have you thought about getting your female friends to proofread your work? Have you also tried reading books by female authors, preferably Latina ones?" Slowly, an old buried memory began to unearth itself; a time in high school English class where we had the choice to pick our next book. Of COURSE I would have picked Ender's Game, a book about space war and futuristic tendencies. Why would I ever pick a book about someone's regular life written by a girl? That sounds like a total snoozefest. 

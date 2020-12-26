@@ -1,12 +1,22 @@
 ---
-permalink: /tempest-tokens/
 layout: page
-title: "Donation Rewards and Levels"
-sitemap: false
+subheadline: "Tempest Crossing"
+title: "Tempest Tokens"
+teaser: "Cryptocurrency in the world of Tempest Crossing."
 header:
     image_fullwidth: "header-search.jpg"
     caption: Argo the information broker of Sword Art Online
     caption_url: "https://en.wikipedia.org/wiki/Sword_Art_Online"
+image:
+    thumb:  blog/teller-of-worlds/floor-1-thumb.jpg
+    homepage: blog/teller-of-worlds/floor-1-thumb.jpg
+categories:
+    - tempest-crossing
+tags:
+    - cryptocurrency
+    - stellar-lumens
+author: mtfallsVR
+show_meta: true
 comments: true
 ---
 
@@ -53,6 +63,6 @@ Tempest Tokens are a special currency acquired through monetary donations and ot
 * Receive special **Discord Role** and **In-Game Title**
 
 ## Follow-up
-If you have any additonal questions regarding donations, please forward the questions to **DISQUS** below or to **mtfallsVR@atemosta.com**.
+If you have any additonal questions regarding donations, please forward the questions to **DISQUS** below or to **mtfallsVR@protonmail.com**.
 
 [1]: {{site.url}}{{site.baseurl}}/tempest-crossing

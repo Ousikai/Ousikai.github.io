@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "A New Saga Unfolds in El Valedor"
+subheadline: "Creative's Workshop 2020"
 title: "The Meaning of Floor 1"
 teaser: "Starting from the Town of Beginnings."
 #header:
@@ -11,9 +11,9 @@ teaser: "Starting from the Town of Beginnings."
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/teller-of-worlds
+    - blog/perfecting-your-protagonist
 tags:
-    - teller-of-worlds
+    - perfecting-your-protagonist
 author: Ousikai
 show_meta: true
 comments: true
@@ -22,7 +22,7 @@ comments: true
 <br/>
 Thank you for today's topic, **@leighannkittell**! 
 
-## Day 6: The Meaning of Floor 1
+## Pro2 Day 6: The Meaning of Floor 1
 As a longtime fan of Sword Art Online, it follows a very simple structure: the heroes must race to the top of a *tower* with increasingly dangerous floors in order to defeat the final boss and free the world of danger (The *Tower* reappears in various manifestations throughout the series and has important symbolic significance, but that's for another's dailies post!) 
 
 The first tower of the series is one hundred floors (a nice round number), but what makes this series special is WHO and HOW the world of the tower is developed. The premise of Sword Art Online is 10,000 players are trapped within the virtual reality videogame of Aincrad, and if they die in the game, they die in real life. This runs contrary to typical fantasy themes where the world is already magical and combat for survival is the norm of the day; having exceedingly average-joe characters suddenly and involuntarily thrust into a life-and-death scenario is both revealing to the human core of emotions  and creates an immediately unqualified group to conquer the tower. As expected, since no one was willing to die to a new world they seemingly had no control over, the conquering of floor one took over a month (where the average rate should have been 3-4 days if SAO was a regular game).

@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "A New Saga Unfolds in El Valedor"
+subheadline: "Creative's Workshop 2020"
 title: "Enter the Dragon"
 teaser: "Let's take a moment to remember and appreciate our dragonkin companions."
 #header:
@@ -11,14 +11,14 @@ teaser: "Let's take a moment to remember and appreciate our dragonkin companions
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/teller-of-worlds
+    - tempest-crossing/teller-of-worlds
 tags:
     - teller-of-worlds
 author: Ousikai
 show_meta: true
 comments: true
 ---
-## Day 9: Enter the Dragon
+## Pro2 Day 9: Enter the Dragon
 Hi **@dragon**! I just got accepted into the group and after a reading a couple of your dailies, I am excited to get a chance to learn more about what makes you all tick!
 
 But let's take a quick aside and acknowledge how COOL dragons are.

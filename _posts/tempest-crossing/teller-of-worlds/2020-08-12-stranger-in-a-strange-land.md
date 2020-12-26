@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "A New Saga Unfolds in El Valedor"
+subheadline: "Tempest Crossing"
 title: "Stranger in a Strange Land"
 teaser: "The white-haired maiden of mystery."
 #header:
@@ -11,14 +11,14 @@ teaser: "The white-haired maiden of mystery."
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/teller-of-worlds
+    - tempest-crossing/teller-of-worlds
 tags:
     - teller-of-worlds
 author: Ousikai
 show_meta: true
 comments: true
 ---
-## Day 2: Stranger in a Strange Land* 
+## Pro2 Day 2: Stranger in a Strange Land* 
 
 As I was trying to wrap my head around HOW I wanted to describe the world of **El Valedor**, I was suddenly came with a vision how I would like the main character be formed. My favorite trope ironically enough is the
 
