@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "A New Saga Unfolds in El Valedor"
+subheadline: "Creative's Workshop 2020"
 title: "Entry from the Diary of the Night Sky"
 teaser: "Remembering you."
 #header:
