@@ -18,8 +18,36 @@ author: Ousikai
 show_meta: true
 comments: true
 ---
-## Professionals, Amateurs and Hacks
->  **Prompt**: *In your field, who are the glorious amateurs, those that have brought their voice, unedited, to a vast and adoring public? And who are the successful professionals? What about the hacks? List one for each and tell us about them.*
+## 3. Professionals, Amateurs and Hacks
+*Dig deep to find the commitment necessary to become a working professional…*
+
+*Are you willing (and able) to see what the hack would do and not do? Who are the hacks in your field, the ones who have given up what they stand for in order to pander to the market?*
+
+*Can you see what the market wants in the short run and not bend to it and know the trade-off you’re making?*
+
+*If you’re ready to be a professional, figure out what you stand for, and do it regularly, with consistency.*
+
+*Those of you working as a professional, what would it look like if you took it up a notch?*
+
+*And amateurs, what will you do to avoid the siren call of becoming a hack?*
+
+*This is the work.*
+
+> ***Prompt***: *In your field, who are the glorious amateurs, those that have brought their voice, unedited, to a vast and adoring public? And who are the successful professionals? What about the hacks? List one for each and tell us about them.*
+
+*To get you started (from Seth):*
+
+*In my experience, Yo-Yo Ma is a professional, navigating from one magical place to another, compounding his reputation, contributing and leading. Tommy Wiseau, the legendarily bad director, is an amateur, as is E.L. James, the author of the self-published and quite successful 50 Shades. On the other hand, John Locke 33 is a happy hack, selling millions of Kindle books and sharing his approach with others.*
+
+*Consider this XY quadrant graph from Seth:*
+
+> *Screenshot 2020-01-10 09.03.47*
+
+*On the X axis, we see that hacks and failures have given up believing in anything except selling the next thing. And on the Y axis, we see that professionals have figured out how to balance commercial requirements with the art (and the change) they seek to make.*
+
+*There’s nothing wrong with being an amateur or a hack, if that’s what you seek. Our goal here is to avoid the heartbreak of being an hack who expects the honor and success that goes to the professional. (Or to be an amateur and fail to embrace the choice).*
+
+## Silicon Valley
 
 What drives me up the absolute wall is the ideal that wealth is an indicator of personal success and should be celebrated. There are an infinitesimal number of reasons someone could become wealthy (hacking being paramount here), but I feel as though the people we should celebrate are those who make a difference in the world around them. 
 

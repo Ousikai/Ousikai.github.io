@@ -18,8 +18,15 @@ author: Ousikai
 show_meta: true
 comments: true
 ---
-## What’s it all for? (What does it look like when it works?)
-**Prompt**: *There are ends and there are means. Is getting your book published or your song on the radio the point? Is it the end?*
+## 5. What’s it all for? (What does it look like when it works?)
+*What does it look like when it is successful…*
+
+*It’s a lot easier to find your voice if you know where to look for it.*
+*What exactly would it look like if you succeeded? How far do you need to go?*
+
+https://www.youtube.com/watch?v=0g7ARarFNnw
+
+***Prompt***: *There are ends and there are means. Is getting your book published or your song on the radio the point? Is it the end?*
 
 *When it works, what will ‘it’ look like? What does a good day entail, specifically. Is it about acclaim, awareness, trust, income, respect, status, the process… What will you trade to get what you seek?*
 
