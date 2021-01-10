@@ -18,8 +18,23 @@ author: Ousikai
 show_meta: true
 comments: true
 ---
-## Your Calling and Your Craft
+## 3. Your Calling and Your Craft
+*In this workshop, you may decide to spend time or emotion defending your work in the face of the market when in fact, the path forward might lie in changing your work in response to the market.*
 
+*If your craft is the professional work that allows you to be heard, and your calling is the nagging feeling that shows up when you have a hunch that you’re not being pure–can you describe where your discomfort lies?*
+
+*Could it be that the purity of a calling is simply a place to hide?*
+
+***A side note about feedback:***
+*Ignore feedback from people who are seeking to protect you from doing something great. They mean well, because they don’t want you to be hurt, but they have no clue what they’re talking about, and they don’t hear the voice in your head the way you do.*
+
+*Ignore feedback from critics. They’re expressing something about themselves, or seeking to leverage your work to be heard. They have no clue how to make your work better. If they did, they’d be artists and working professionals, not critics.*
+
+***DO NOT READ YOUR AMAZON REVIEWS.***
+
+*On the other hand, if you’re lucky enough to be given the chance: Embrace and delight in feedback from other professionals. This is a generous gift they’re offering you. Push back, not on the feedback, but on the ‘why’ behind the feedback. Learn to see what they see. This is where good taste is learned.*
+
+## Just Me, Myself, and I
 > **Prompt Part 1** : *When someone gives you feedback on your dream project, what’s your reaction? Does it feel like the constructive feedback you might hope for from a professional chef tasting a sauce you just made, or is it a more personal, hurtful feeling, the way you might feel if someone criticized your kid? Give some examples of both.*
 
 My biggest critic has always been myself, which has both been a blessing and curse for a myriad of reasons. When you are never satisfied with your work, you always end up striving and perfecting older iterations of yourself, but never stop to take a breather and be proud of the person you have become up to this point.

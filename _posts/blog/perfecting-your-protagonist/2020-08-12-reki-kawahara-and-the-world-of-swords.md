@@ -18,8 +18,20 @@ author: Ousikai
 show_meta: true
 comments: true
 ---
-## It’s Possible
->  **Prompt**: *Identify your creative hero. A creator who has come before you that has done it the way you’d be proud to do it. Not via luck, not via selling out, not because they have a genius you don’t have.*
+## 2. It’s Possible
+*It’s possible to make a living as a professional being creative…*
+
+*Knowing that it’s possible is the first step in the journey to doing it.*
+
+> **Prompt**: *Identify your creative hero. A creator who has come before you that has done it the way you’d be proud to do it. Not via luck, not via selling out, not because they have a genius you don’t have.*
+
+*Someone who has had their voice heard. What do they do, where do they do it? What about their journey (not the art, but the way the art arrives in the world) makes them your hero? Tell us about them.*
+
+***Tip***: *If you pick someone who’s a crazy/lucky genius, you’re probably setting yourself up for disappointment, because you’re not a crazy genius.*
+
+*Each of us has genius on tap, but playing the lottery is not our goal in this workshop. Instead, we’re challenging you to find a hero who has started with what you’re starting with, and has thoughtfully and persistently achieved the results you’re hoping for…*
+
+*A note about the prompts: They’re designed to inspire your thinking and feelings. They are not designed to have a specific right answer. If you’re feeling tension around needing to answer all the questions and craft the perfect response, we encourage you to let go of any feelings to check the box. Instead, use the prompts to explore the edges, to dance with your fear and to practice sharing your voice.*
 
 ## Reki Kawahara and a World of Swords
 The creator of the esteemed series Sword Art Online. I haven’t much studied what this author has done throughout his career, but the bits and pieces of the story are all resounding to reflect a wonderful man with a perseverance attitude.

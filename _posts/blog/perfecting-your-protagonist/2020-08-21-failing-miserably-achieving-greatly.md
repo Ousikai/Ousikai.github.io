@@ -18,10 +18,31 @@ author: Ousikai
 show_meta: true
 comments: true
 ---
-## Agents and Writing 
-**Prompt:**  *So where are you stuck?*
+## 6. Agents and Writing 
+*Liz Gilbert on writing:*
 
-*Two incredibly successful and generous teachers have just laid out how to get your craft from where it is to where you need it to go. Which part caused a strain or touched your heart?*
+1. *Tell your story TO someone. Pick one person you love or admire or want to connect with, and write the whole thing directly to them —like you’re writing a letter. This will bring forth your natural voice. Whatever you do, do NOT write to a demographic. Ugh.*
+
+2. *Start at the beginning of the story, write what happened, and keep going until you get to the end.*
+
+3. *Use radically simple sentences.*
+
+4. *Don’t worry if it’s good; just finish it. Whether or not your project is good, you’ll be a different person at the end of it, and that’s always worth doing.*
+
+5. *Don’t write with the aim of changing anybody’s life. That will lead to heavy, irritating prose. Just share what delights or enrages or fascinates you. If somebody’s life is changed by it, that’s a bonus.*
+
+6. *Whenever you can, tell stories instead of explaining stuff. Humans love stories, and we hate having stuff explained to us. Use Jesus as an example: He spoke almost exclusively in parables, and allowed everybody to draw their own lessons from his great storytelling. And he did very well.*
+
+7. *Your work doesn’t have to be any particular length, or written for any particular market. It doesn’t have to even be seen by another human being. How and if to publish your work is a problem for another day. For today, just write.*
+
+8. *Remember that you’ve been doing research your whole life, merely by existing. You are the only expert in your own experience. Embrace this as your supreme qualification.*
+
+9. *Every writer starts in the same place on Day One: Super excited, and ready for greatness. On Day Two, every writer looks at what she wrote on Day One and hates herself. What separates working writers from non-working writers is that working writers return to their task on Day Three. What gets you there is not pride but mercy. Show yourself forgiveness, for not being good enough. Then keep going*
+
+10. *Be willing to let it be easy. You might be surprised.*
+:heart:*LG*
+
+> ***Prompt:***  *So where are you stuck?* *Two incredibly successful and generous teachers have just laid out how to get your craft from where it is to where you need it to go. Which part caused a strain or touched your heart?*
 
 -----
 

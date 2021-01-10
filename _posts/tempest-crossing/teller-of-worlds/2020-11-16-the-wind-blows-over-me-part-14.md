@@ -11,9 +11,9 @@ image:
     thumb:  blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-THUMB.png
     homepage: blog/teller-of-worlds/the-wind-blows-over-me/GigasCedar-RAW.png
 categories:
-    - blog/twilight-perfecting-your-protagonist
+    - blog/perfecting-your-protagonist
 tags:
-    - twilight-perfecting-your-protagonist
+    - perfecting-your-protagonist
 author: Ousikai
 show_meta: true
 comments: true
@@ -22,7 +22,7 @@ comments: true
 
 This is more or less the official ending to my nano 2020 run, I'll say more about it in tomorrow's post.
 
-[Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/twilight-perfecting-your-protagonist/the-wind-blows-over-me-table-of-contents) <br/>
+[Click here for the table of contents]({{site.url}}{{site.baseurl}}/blog/perfecting-your-protagonist/the-wind-blows-over-me-table-of-contents) <br/>
 
 # Day 95 (NaNoWriMo Part 14)     
 ## Whatever's Out There
