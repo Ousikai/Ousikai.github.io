@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Blog"
-title: "Edge of Eclipse"
+title: "Edge of Eclipse (The Future)"
 teaser: "A blog following mtfallsVR's journey in creating virtual worlds and experiences."
 header:
     image_fullwidth: "blog/vr-developer-diaries/header-intro.jpg"

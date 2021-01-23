@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Blog"
-title: "Perfecting Your Protagonist"
+title: "Perfecting Your Protagonist (The Present)"
 teaser: "A blog following Ousikai's journey in discovering the hero within."
 header:
     image_fullwidth: "blog/perfecting-your-protagonist/intro-header.jpg"

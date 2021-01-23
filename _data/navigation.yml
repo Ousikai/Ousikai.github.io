@@ -60,11 +60,11 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Edge of Eclipse"
+  - title: "Edge of Eclipse (The Future)"
     url: "/blog/edge-of-eclipse/"
-  - title: "Perfecting Your Protagonist"
+  - title: "Perfecting Your Protagonist (The Present)"
     url: "/blog/perfecting-your-protagonist/"
-  - title: "Twilight Theater"
+  - title: "Twilight Theater (The Past)"
     url: "/blog/twilight-theater/"
 
 - title: "Search"

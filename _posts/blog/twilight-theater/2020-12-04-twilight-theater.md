@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Blog"
-title: "The Twilight Theater"
+title: "The Twilight Theater (The Past)"
 teaser: "All the world's a stage, and all the men and women merely players. They have their exits and their entrances, and one man in his time plays many parts."
 header:
     image_fullwidth: "blog/teller-of-worlds/floor-1-original.png"
