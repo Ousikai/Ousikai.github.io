@@ -4,12 +4,12 @@ subheadline: "Ignition of January"
 title: "The Moment of Joy"
 teaser: "Will you seize the moment, or will the moment seize you?"
 header:
-    image_fullwidth: "blog/teller-of-worlds/2021-Jan/HEAD.jpg"
+    image_fullwidth: "blog/teller-of-worlds/2021-Jan/campfire-HEADER.png"
     caption: "Pull the trigger without hesitation to take aim at this paradoxical world."
     caption_url: "https://www.youtube.com/watch?v=frw21EeOrV0"
 image:
-    thumb:  blog/teller-of-worlds/2021-Jan/THUMB.jpg
-    homepage: blog/teller-of-worlds/2021-Jan/RAW.jpg
+    thumb:  blog/teller-of-worlds/2021-Jan/campfire-THUMB.png
+    homepage: blog/teller-of-worlds/2021-Jan/campfire-RAW.png
 categories:
     - blog/twilight-theater
 tags:
