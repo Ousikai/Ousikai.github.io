@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "December Showers 2020"
+subheadline: "December Showers"
 title: "Dying Light"
 teaser: "A flame that burns twice as strong, lasts half as long."
 header:

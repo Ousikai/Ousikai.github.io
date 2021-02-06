@@ -84,15 +84,8 @@ Finally, I allow myself to speak.
 
 This was a weekly crossover post between **Sandbox Zero** and the **Altspace VR Writing Group**. 
 
-This Week's Topic is **Mindful Collaboration**:
-* *How do we forge new bonds in a networking space and keep give / take equitable?* 
-* *How can we know when we are taking advantage of others or vice-versa?*
-* *How do we know when we are being selfish?*
-* *Conversely, when are we neglecting ourselves/ Where is the balance?*
-* *What are your experiences with Negotiation? Is negotiating a zero-sum game?* 
-* *What do you think is the best outcome of a negotiation?* 
-* *What does it take to make negotiation a win-win?* 
-* *How have such negotiations proceeded in your experience?* 
-* *When one negotiates on behalf of another(s) how does one manage expectations and communication of the negotiation?*
+Sandbox Zero's topic was ***Money and Self***
+* *How would instant (obscene) wealth change us?*
+* *What would you do with a billion dollars?*
 
-ASVR Writing Group's Weekly Homework Prompt was ***politics***.
+ASVR Writing Group's Prompt was ***Relationships***.
