@@ -108,4 +108,4 @@ This Week's Topic is **Mindful Collaboration**:
 * *How have such negotiations proceeded in your experience?* 
 * *When one negotiates on behalf of another(s) how does one manage expectations and communication of the negotiation?*
 
-ASVR Writing Group's Weekly Homework Prompt was ***politics***.
+ASVR Writing Group's Weekly Homework Prompt was ***relationships***.

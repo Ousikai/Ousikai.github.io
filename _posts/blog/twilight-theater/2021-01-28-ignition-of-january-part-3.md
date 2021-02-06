@@ -88,4 +88,4 @@ Sandbox Zero's topic was ***Money and Self***
 * *How would instant (obscene) wealth change us?*
 * *What would you do with a billion dollars?*
 
-ASVR Writing Group's Prompt was ***Relationships***.
+ASVR Writing Group's Prompt was ***politics***.
