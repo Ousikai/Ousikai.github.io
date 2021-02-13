@@ -75,6 +75,9 @@ A memory I had almost compeltely forgetten about flooded back into my mind at fu
 
 "Hey, why are you crying? We're suppose to be having fun here!"
 
+*Heh, easy for you to say. But thinking about it then, there was something here, something worthwhile to latch onto. A dream bigger than myself, huh?*
+
+
 Out of all the memories I had chosen to remember, I can't believe this is one of the ones I had almost forgotten. I carefully put away the package, and make a note to wrap and exchange it for the next time we happen to meet. I laughed at the conversation I predicted would unfold:
 
 "Why would you get me a gift? I know my birthday and christmas are pretty much on the same day, but come on, there was no need! Now I gotta get you something for NEXT year!"
