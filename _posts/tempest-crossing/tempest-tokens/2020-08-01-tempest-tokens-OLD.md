@@ -21,7 +21,7 @@ comments: true
 ---
 
 ### Tempest Tokens?
-Tempest Tokens are a special currency acquired through monetary donations and other community volunteer efforts which will be minted ONLY before the official release of [Tempest Crossing][1], and will be used to redeem limited-time rewards. Tempest Tokens are burned after use, so these will get rarer over time and could be held for profit for newer players in the future...
+Tempest Tokens are a special currency acquired through monetary donations and other community volunteer efforts which will be minted ONLY before the official release of [Tempest Crossing][1], and will be used to redeem limited-time rewards. Anyone who purchases any quanity of Tempest Tokens will be added to our [Hall of Heroes][2]
 
 ### Gust Seed ($1)
 * Receive special **Discord Role** and **In-Game Title**, ***Arc in the Storm***, which gives pre-release previews!
@@ -66,3 +66,4 @@ Tempest Tokens are a special currency acquired through monetary donations and ot
 If you have any additonal questions regarding donations, please forward the questions to **DISQUS** below or to **mtfallsVR@protonmail.com**.
 
 [1]: {{site.url}}{{site.baseurl}}/tempest-crossing
+[2]: {{site.url}}{{site.baseurl}}/hall-of-heroes
