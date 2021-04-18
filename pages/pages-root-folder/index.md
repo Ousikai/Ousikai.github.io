@@ -9,20 +9,20 @@ title: "A Tempest of Stars"
 header:
   image_fullwidth: header_atos.jpg
 widget1:
-  title: "Tempest Crossing"
-  url: 'https://atemosta.com/tempest-crossing'
+  title: "Edge of Eclipse"
+  url: 'https://ousikai.github.io/blog/edge-of-eclipse'
   image: widget-vr-302x182.jpg
-  text: 'Discover the selves dwelling just beneath the surface.'
+  text: 'Stories from the Future.'
 widget2:
-  title: "Projects"
-  url: 'https://atemosta.com/projects'
+  title: "Perfecting Your Protagonist"
+  url: 'https://ousikai.github.io/blog/perfecting-your-protagonist'
   image: widget-apps-302x182.jpg
-  text: 'Streamlined solutions to simplify our unsystematic lives.'
+  text: 'Chronicling the Present.'
 widget3:
   title: "Blog"
-  url: 'https://atemosta.com/blog'
+  url: 'https://ousikai.github.io/blog/twilight-theater'
   image: widget-tutorials-302x182.jpg
-  text: 'Tutorials and musings through middle earth and the virtual unknown.'
+  text: 'Ruminating on the Past.'
 
 permalink: /index.html
 #
@@ -39,7 +39,7 @@ permalink: /index.html
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/Atemosta
+  url: https://tinyletter.com/Ousikai
   text: Inform me about new updates and features ›
   style: alert
 permalink: /index.html

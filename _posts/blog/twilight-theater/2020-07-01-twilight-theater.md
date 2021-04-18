@@ -1,23 +1,27 @@
 ---
 layout: page
 subheadline: "Blog"
-title: "Edge of Eclipse (The Future)"
-teaser: "What exists on the horizon of our imagination?"
+title: "The Twilight Theater (The Past)"
+teaser: "All the world's a stage, and all the men and women merely players. They have their exits and their entrances, and one man in his time plays many parts."
 header:
-    image_fullwidth: "blog/vr-developer-diaries/header-intro.jpg"
-    caption:  Akihiko Kayaba, the famed created of Sword Art Online
+    image_fullwidth: "blog/teller-of-worlds/floor-1-original.png"
+    caption: In this world, a single blade can take you anywhere you want to go.
     caption_url: "https://en.wikipedia.org/wiki/Sword_Art_Online"
 image:
-    thumb:  blog/vr-developer-diaries/thumb-intro.jpg
-    homepage: blog/vr-developer-diaries/kayaba-akihiko-BIG.jpg
+    thumb:  blog/teller-of-worlds/floor-1-thumb.jpg
+    homepage: blog/teller-of-worlds/floor-1-thumb.jpg
 categories:
     - blog
+tags:
+    - reflection
+    - social-commentary
 author: Ousikai
 show_meta: true
+comments: true
 ---
-# Latest Blog Posts
+## Latest Blog Posts
 <ul>
-    {% for post in site.tags.edge-of-eclipse %}
+    {% for post in site.tags.twilight-theater %}
     <div class="row">
       <div class="small-12 columns b60">
         <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
@@ -32,9 +36,6 @@ show_meta: true
     </div><!-- /.row -->
     {% endfor %}
 </ul>
-
-
-<!-- [1]: {{site.baseurl}}/virtual-reality/evolution-of-experience -->
 
 
 <!-- [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q81LOP9) -->

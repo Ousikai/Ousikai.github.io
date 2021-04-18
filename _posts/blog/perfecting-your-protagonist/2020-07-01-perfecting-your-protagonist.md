@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Blog"
-title: "Perfecting Your Protagonist (The Present)"
+title: "Perfecting Your Protagonist"
 teaser: "A blog following Ousikai's journey in discovering the hero within."
 header:
     image_fullwidth: "blog/perfecting-your-protagonist/intro-header.jpg"
@@ -13,7 +13,6 @@ image:
 categories:
     - blog
 tags:
-    - self-improvement
 author: Ousikai
 show_meta: true
 ---
