@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "Blog"
-title: "Edge of Eclipse (The Future)"
-teaser: "What exists on the horizon of our imagination?"
+title: "Edge of Eclipse"
+teaser: "Tales that have come to pass."
 header:
     image_fullwidth: "blog/vr-developer-diaries/header-intro.jpg"
     caption:  Akihiko Kayaba, the famed created of Sword Art Online
@@ -15,7 +15,6 @@ categories:
 author: Ousikai
 show_meta: true
 ---
-# Latest Blog Posts
 <ul>
     {% for post in site.tags.edge-of-eclipse %}
     <div class="row">

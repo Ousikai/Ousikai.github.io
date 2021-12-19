@@ -2,21 +2,21 @@
   url: "/"
   side: left
 
-- title: "Edge of Eclipse (Stories from the Future)"
+- title: "About"
+  url: "/about/"
+  side: left
+
+- title: "Ongoing Stories"
+  url: "/blog/ongoing-stories/"
+  side: left
+
+- title: "Completed Stories"
   url: "/blog/edge-of-eclipse/"
   side: left
 
-- title: "Perfecting Your Protagonist (Chronicling the Present)"
-  url: "/blog/perfecting-your-protagonist/"
-  side: left
-
-- title: "Twilight Theater (Ruminating on the Past)"
-  url: "/blog/twilight-theater/"
-  side: left
-
-- title: Blog Archive
-  url: "/blog/archive"
-  side: right
+# - title: Blog Archive
+#   url: "/blog/archive"
+#   side: right
 
 - title: "Search"
   url: "/search/"

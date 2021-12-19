@@ -9,20 +9,20 @@ title: "A Tempest of Stars"
 header:
   image_fullwidth: header_atos.jpg
 widget1:
-  title: "Edge of Eclipse"
-  url: 'https://ousikai.github.io/blog/edge-of-eclipse'
+  title: "About"
+  url: 'https://ousikai.github.io/blog/about'
   image: widget-vr-302x182.jpg
-  text: 'Stories from the Future.'
+  text: 'Welcome to the Tempest.'
 widget2:
-  title: "Perfecting Your Protagonist"
-  url: 'https://ousikai.github.io/blog/perfecting-your-protagonist'
+  title: "Ongoing Stories"
+  url: 'https://ousikai.github.io/blog/ongoing-stories'
   image: widget-apps-302x182.jpg
-  text: 'Chronicling the Present.'
+  text: 'What lies in the storm just beyond our reach?'
 widget3:
-  title: "Blog"
-  url: 'https://ousikai.github.io/blog/twilight-theater'
+  title: "Completed Stories"
+  url: 'https://ousikai.github.io/blog/edge-of-eclipse'
   image: widget-tutorials-302x182.jpg
-  text: 'Ruminating on the Past.'
+  text: 'Tales that have come to pass.'
 
 permalink: /index.html
 #
@@ -40,7 +40,7 @@ permalink: /index.html
 #
 callforaction:
   url: https://tinyletter.com/Ousikai
-  text: Inform me about new updates and features ›
+  text: Subscribe to get the latest stories delivered to your inbox! ›
   style: alert
 permalink: /index.html
 homepage: true
