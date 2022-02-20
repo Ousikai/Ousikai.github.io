@@ -9,10 +9,20 @@
 - title: "Ongoing Stories"
   url: "/blog/ongoing-stories/"
   side: left
+  dropdown:
+  - title: "My Life as a Refrigerator"
+    url: "/blog/my-life-as-a-refrigerator/"
+  - title: "The Grand Challenge"
+    url: "/blog/the-grand-challenge/"
+  - title: "Tempest Crossing"
+    url: "/blog/tempest-crossing/"
 
 - title: "Completed Stories"
   url: "/blog/edge-of-eclipse/"
   side: left
+  dropdown:
+  - title: "One Shots"
+    url: "/blog/one-shots/"
 
 # - title: Blog Archive
 #   url: "/blog/archive"

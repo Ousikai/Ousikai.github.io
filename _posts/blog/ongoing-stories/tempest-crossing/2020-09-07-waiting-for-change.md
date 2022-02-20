@@ -11,9 +11,9 @@ teaser: "I guess this is really it, huh."
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/twilight-theater
+    - blog/tempest-crossing
 tags:
-    - twilight-theater
+    - tempest-crossing
 author: Ousikai
 show_meta: true
 comments: true

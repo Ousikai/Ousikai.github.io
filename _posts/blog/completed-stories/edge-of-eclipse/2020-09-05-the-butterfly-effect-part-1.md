@@ -14,6 +14,7 @@ categories:
     - blog/edge-of-eclipse
 tags:
     - edge-of-eclipse
+    - one-shots
 author: Ousikai
 show_meta: true
 comments: true

@@ -11,9 +11,9 @@ teaser: "Hiding the evidence."
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/edge-of-eclipse
+    - blog/my-life-as-a-refrigerator
 tags:
-    - edge-of-eclipse
+    - my-life-as-a-refrigerator
 author: Ousikai
 show_meta: true
 comments: true

@@ -10,4 +10,4 @@ header:
 <img src="/images/blog/perfecting-your-protagonist/asuna-mirror-raw.jpg">
 
 
-*...what kind of person will we become in the space between our physical selves and their digital divides?.*
+*...what kind of person will we become in the space between our physical selves and their digital divides?*

@@ -11,9 +11,9 @@ teaser: "The return of horror incarnate."
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/edge-of-eclipse
+    - blog/tempest-crossing
 tags:
-    - edge-of-eclipse
+    - tempest-crossing
 author: Ousikai
 show_meta: true
 comments: true
