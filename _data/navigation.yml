@@ -13,6 +13,11 @@
 - title: "Completed Stories"
   url: "/blog/edge-of-eclipse/"
   side: left
+  dropdown:
+  # - title: "Littlewood Academia"
+  #   url: "/community/littlewood-academia/"
+  - title: "One Shots"
+    url: "/blog/one-shots/"
 
 # - title: Blog Archive
 #   url: "/blog/archive"
