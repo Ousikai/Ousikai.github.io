@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "Blog"
-title: "My Life as a Refrigerator"
-teaser: "Regi was living an uninspiring and uneventful life alone in the city, where the only pleasure he received was the leftover fast foods he purchased the day prior.  One fateful day, his beloved refrigerator falls and crushes him to death, and once he reawakens, finds himself turned into a fridge! What wacky misfortune will befall our reliable appliance now?"
+title: "Tempest Crossing"
+teaser: "A silver-haired maiden finds herself in a foreign land with no recollection of the person she once was. In searching for herself in an overwhelming world, the journey leads her to find something worth more than her old name."
 header:
     image_fullwidth: "blog/vr-developer-diaries/header-intro.jpg"
     caption:  Akihiko Kayaba, the famed created of Sword Art Online
@@ -18,7 +18,7 @@ author: Ousikai
 show_meta: true
 ---
 <ul>
-    {% for post in site.tags.my-life-as-a-refrigerator %}
+    {% for post in site.tags.tempest-crossing %}
     <div class="row">
       <div class="small-12 columns b60">
         <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>

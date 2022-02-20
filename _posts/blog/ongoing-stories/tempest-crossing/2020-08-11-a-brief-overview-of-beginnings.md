@@ -11,9 +11,9 @@ teaser: "Let me tell you a story... about the birth of a small nation soon to be
 #    thumb:  thumbnail_waiting.jpg
 #    homepage: waiting_raw.jpg
 categories:
-    - blog/edge-of-eclipse
+    - blog/tempest-crossing
 tags:
-    - edge-of-eclipse 
+    - tempest-crossing 
 author: Ousikai
 show_meta: true
 comments: true
