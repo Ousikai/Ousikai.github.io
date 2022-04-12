@@ -10,7 +10,7 @@ header:
   image_fullwidth: header_atos.jpg
 widget1:
   title: "About"
-  url: 'https://ousikai.github.io/blog/about'
+  url: 'https://ousikai.github.io/about'
   image: widget-vr-302x182.jpg
   text: 'Welcome to the Tempest.'
 widget2:
