@@ -10,12 +10,12 @@
   url: "/blog/ongoing-stories/"
   side: left
   dropdown:
-  - title: "My Life as a Refrigerator"
-    url: "/blog/my-life-as-a-refrigerator/"
+  # - title: "My Life as a Refrigerator"
+  #   url: "/blog/my-life-as-a-refrigerator/"
   - title: "The Grand Challenge"
     url: "/blog/the-grand-challenge/"
-  - title: "Tempest Crossing"
-    url: "/blog/tempest-crossing/"
+  # - title: "Tempest Crossing"
+  #   url: "/blog/tempest-crossing/"
 
 - title: "Completed Stories"
   url: "/blog/edge-of-eclipse/"

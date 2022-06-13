@@ -12,8 +12,8 @@ image:
     homepage: blog/vr-developer-diaries/kayaba-akihiko-BIG.jpg
 categories:
     - blog
-tags:
-    - ongoing-stories
+# tags:
+#     - ongoing-stories
 author: Ousikai
 show_meta: true
 ---
