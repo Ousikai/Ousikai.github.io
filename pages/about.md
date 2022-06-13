@@ -12,4 +12,7 @@ header:
 
 *...what kind of person are we in the space between our physical selves and their digital divides?*
 
+### [You take your first step into the Tempest.][1]
+
+[1]: {{site.url}}{{site.baseurl}}/blog/the-grand-challenge/
 
