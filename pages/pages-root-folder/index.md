@@ -17,7 +17,7 @@ widget2:
   title: "Ongoing Stories"
   url: 'https://ousikai.github.io/blog/ongoing-stories'
   image: widget-apps-302x182.jpg
-  text: 'What lies in the storm just beyond our reach?'
+  text: 'A storm wakes on the horizon.'
 widget3:
   title: "Completed Stories"
   url: 'https://ousikai.github.io/blog/edge-of-eclipse'
