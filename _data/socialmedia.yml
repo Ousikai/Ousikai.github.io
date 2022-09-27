@@ -1,17 +1,17 @@
 - name: GitHub
-  url: http://github.com/Atemosta
+  url: https://github.com/Ousikai/ousikai.github.io
   class: icon-github
-  title: Code and more...
+  title: "Source Code"
 
-- name: Twitter
-  url: http://twitter.com/Atemosta
+- name: Mastodon
+  url: https://mastodon.social/@Ousikai
   class: icon-twitter
-  title: "Follow us for the latest Atemosta updates!"
+  title: "Weekly Chapter Updates"
 
-- name: YouTube
-  url: https://ko-fi.com/atemosta
-  class: icon-heart
-  title: "Buy us a Ko-fi and support us!"
+# - name: YouTube
+#   url: https://ko-fi.com/atemosta
+#   class: icon-heart
+#   title: "Buy us a Ko-fi and support us!"
 
 
 
